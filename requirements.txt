@@ -1,0 +1,5 @@
+pyspark==3.2.1
+-e .
+numpy
+boto3
+python-dotenv
